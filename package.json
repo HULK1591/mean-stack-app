@@ -1,0 +1,22 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN Stack Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HULK1591/mean-stack-app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "Shyam Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HULK1591/mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/HULK1591/mean-stack-app#readme"
+}
