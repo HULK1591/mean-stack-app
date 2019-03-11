@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/HULK1591/mean-stack-app/issues"
   },
-  "homepage": "https://github.com/HULK1591/mean-stack-app#readme"
+  "homepage": "https://github.com/HULK1591/mean-stack-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
 }
